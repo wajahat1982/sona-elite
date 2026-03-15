@@ -19,7 +19,7 @@ export default function Header() {
             <img src="/images/sona-logo.png" alt="SONA logo" />
             <div className="brandText">
               <strong>SONA</strong>
-              <span>Sargodhians Overseas Network Association</span>
+              <span>Sargodhian Overseas Network Association</span>
             </div>
           </a>
 
