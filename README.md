@@ -1,6 +1,6 @@
 SONA Platform Elite
 
-A premium Next.js build for the Sargodhians Overseas Network Association.
+A premium Next.js build for the Sargodhian Overseas Network Association.
 
 Pages included
 - Homepage
