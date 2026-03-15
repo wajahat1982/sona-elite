@@ -105,7 +105,7 @@ export default function HomePage() {
             <div className="card aboutCard">
               <img className="crest" src="/images/sona-logo.png" alt="SONA crest" />
               <h3>SONA</h3>
-              <div className="aboutSub">Sargodhians Overseas Network Association</div>
+              <div className="aboutSub">Sargodhian Overseas Network Association</div>
               <div className="hrGold" />
               <div className="copy">
                 A global alumni ecosystem for every individual selected to PAF College Sargodha
