@@ -1,6 +1,6 @@
 import PageShell from "../../components/PageShell";
 
-const chapters = [
+const regions = [
   ["Americas","Headquarters and principal regional base for SONA."],
   ["Europe","Linking Sargodhians across Europe through structured engagement."],
   ["Asia","Connecting a strong and growing alumni presence across Asia."],
