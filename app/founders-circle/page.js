@@ -1,10 +1,7 @@
 import PageShell from "../../components/PageShell";
 
 const founders = [
-  ["Wajahat Anjum","President","Leading platform vision and institutional buildout.","/images/president.jpg"],
-  ["Arshad N. Khan","General Secretary","Driving continuity, coordination, and governance.","/images/general-secretary.jpg"],
-  ["Khurram Shehzad","Treasurer","Supporting financial stewardship and sustainable growth.","/images/treasurer.jpg"],
-];
+ 
 
 export default function FoundersCirclePage() {
   return (
