@@ -53,7 +53,7 @@ export default function Footer() {
       </div>
 
       <div className="container copyright">
-        © SONA · Sargodhians Overseas Network Association
+        © SONA · Sargodhian Overseas Network Association
       </div>
     </footer>
   );
