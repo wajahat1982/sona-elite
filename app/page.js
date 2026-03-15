@@ -7,7 +7,7 @@ const tiers = [
   ["Founders Circle","Our highest recognition tier for those whose extraordinary support builds and strengthens SONA."],
 ];
 
-const chapters = [
+const regions = [
   ["Americas","Headquarters of the global SONA platform and a strategic base for member engagement across North and South America.","Headquarters"],
   ["Europe","Connecting Sargodhians across the United Kingdom and Europe through structured engagement and community building.","Regional Chapter"],
   ["Asia","A strong and growing alumni presence connecting professionals, mentors, and leaders across Asia.","Regional Chapter"],
